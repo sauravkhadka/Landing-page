@@ -54,8 +54,9 @@
                 color: white;
             }
             .new h1{
-                font-size: 30px;
+                font-size: 25px;
                 margin-top: 90px;
+                text-transform: uppercase;
             }
             .new p{
                 font-size: 25px;
