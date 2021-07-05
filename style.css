@@ -86,11 +86,12 @@
             .new1{
                 float: right;
                 margin-right: 20px;
+                margin-top: 15px;
             }
             .new1 .sc{
-                background: wheat;
-                
-                width: 200px;
+                background: whitesmoke;
+                height: 25px;
+                width: 250px;
                 
             }
             .box .dropdown{
